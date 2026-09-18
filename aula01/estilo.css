@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+    background-color: rgb(13, 104, 230);
+    color: whitesmoke;
+    padding: 30px;
+    text-align: center;
+}
+
+div {
+    border: 1px solid gray;
+    margin: 10px;
+    padding: 10px;
+}
+
+h3 {
+    color: #960000;
+    margin-bottom: 30px;
+    margin-top: 0;
+}
+
+.azul {
+    color: blueviolet;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.italico {
+    font-style: italic;
+}
+
+.sublinhado {
+    text-decoration: underline;
+}
