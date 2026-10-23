@@ -6,8 +6,8 @@ body
 
 h1
 {
-    color : rgb(18, 95, 219);
-    background-color: #0ac1b5;
+    color : white;
+    background-color: #960000;
     text-align: center;
     margin : 0;
     padding: 20px;
@@ -23,14 +23,14 @@ h1
 .subtitulo
 {
     font-size: 30px;
-    color : goldenrod;
+    color : #093896;
     font-weight: bold;
     text-decoration: underline;
 }
 
 .exemplo1
 {
-    border: 1px solid #17a304;
+    border: 1px solid #960000;
     border-radius: 10px;
     margin: 10px;
     padding: 10px;
@@ -44,8 +44,8 @@ h1
 
 .inicio
 {
-    display: flex;
-    justify-content: flex-start;
+display: flex;
+justify-content: flex-start;
 }
 
 .fim
@@ -67,3 +67,30 @@ h1
 }
 
 
+.exemplo2
+{
+    border: 1px solid #0c7ab6;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+
+    height: 300px;
+}
+
+.meio
+{
+    display: flex;
+    align-items: center;
+}
+
+.topo
+{
+    display: flex;
+    align-items: flex-start;
+}
+
+.rodape
+{
+    display: flex;
+    align-items: flex-end;
+}
